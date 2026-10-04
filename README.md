@@ -64,6 +64,7 @@ To enforce strict accountability, every detected issue transitions through a 3-s
 * **Target Geographic Region:** Initial rollout focuses on **Muzaffarabad (e.g., Neelum Road)** and surrounding semi-urban sectors in Azad Kashmir[cite: 2].
 
 ---
-
+live demo of the app:
+https://lnkd.in/p/dynsBwBW
 
 ```
